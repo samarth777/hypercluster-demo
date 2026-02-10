@@ -1,0 +1,5 @@
+{
+  "name": "HyperCluster Explainer",
+  "description": "An interactive visualization of the HyperCluster decentralized LLM inference framework.",
+  "requestFramePermissions": []
+}
